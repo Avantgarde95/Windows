@@ -1,0 +1,3 @@
+echo Killing the explorer...
+taskkill /f /im explorer.exe
+start explorer.exe

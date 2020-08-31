@@ -1,0 +1,3 @@
+echo Checking the disks...
+chkdsk C: /f /r
+chkdsk D: /f /r
